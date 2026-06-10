@@ -129,7 +129,7 @@ Homepage
 
 Clone Repository
 
-git clone https://github.com/yourusername/one-rep-max.git
+https://github.com/rathodbadal651-hash/one-rep-max
 
 Install Dependencies
 
