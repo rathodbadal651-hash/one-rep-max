@@ -148,7 +148,7 @@ http://localhost:5173
 
 Add your GitHub repository link here:
 
-https://github.com/yourusername/one-rep-max
+https://github.com/rathodbadal651-hash/one-rep-max
 
 ---
 
